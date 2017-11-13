@@ -1,1 +1,0 @@
-# Android openCV detector app
