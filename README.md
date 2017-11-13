@@ -1,2 +1,1 @@
-# Android paint :pencil2:
-
+# Android openCV detector app
