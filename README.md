@@ -1,4 +1,4 @@
-# Android + OpenCV = Edge_detector
+# Android + OpenCV = Edge detector
 
 ---
 <div align="center">
@@ -7,4 +7,4 @@
 
 ---
 
-### Improving my own [Image Processing](https://github.com/enzoftware/images-processing) repository with a real time edge detection build with OpenCV for Android + Kotlin in the MainActivity :boom:
+Improving my own [Image Processing](https://github.com/enzoftware/images-processing) repository with a real time edge detection build with OpenCV for Android + Kotlin in the MainActivity :boom:
